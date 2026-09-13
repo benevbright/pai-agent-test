@@ -14,6 +14,9 @@ build/
 venv/
 env/
 
+# Local poetry config (e.g. in-project venvs) — keep personal prefs out of git
+poetry.toml
+
 # IDE
 .vscode/
 .idea/
